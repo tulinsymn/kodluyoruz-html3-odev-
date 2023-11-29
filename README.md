@@ -9,7 +9,7 @@
 <body  bgcolor="#FFCCCC">
     <header>
         <h1><span style ="color:brown" >***KÖSTEBEK PASTA***</span> </h1>
-         <p>
+          <p>
             <strong><em>Hemen hemen her evde bulunan ya da kolay temin edilebilen malzemelerle yapılan,<br>
                 lezzeti ile damaklarınız da iz bırakacak bir tarif. Nefis muhallebisi ile çok <br>
                 sevilecek köstebek pasta nasıl yapılır.<br></em></strong>
