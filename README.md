@@ -12,10 +12,9 @@
          <p>
             <strong><em>Hemen hemen her evde bulunan ya da kolay temin edilebilen malzemelerle yapılan,<br>
                 lezzeti ile damaklarınız da iz bırakacak bir tarif. Nefis muhallebisi ile çok <br>
-                sevilecek köstebek pasta nasıl yapılır.<br></em></strong>
-    
-            </p>
-        <p><strong><span style="color:brown" >Tarif:<span style="color:black">Nefis Yemek Tarifleri</span> </span> </span></strong></p>    
+                sevilecek köstebek pasta nasıl yapılır.<br></em></strong></p>
+        <p>
+        <strong><span style="color:brown" >Tarif:<span style="color:black">Nefis Yemek Tarifleri</span> </span> </span></strong></p>    
     </header>
     <hr>
     <hr>
